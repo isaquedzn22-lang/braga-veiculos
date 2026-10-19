@@ -1,0 +1,15 @@
+SEGURANÇA E PUBLICAÇÃO
+
+Este é um site estático: não contém backend, banco de dados, contas, cookies de sessão nem coleta própria. O formulário abre o WhatsApp somente após o envio e codifica os dados na mensagem; o site não os armazena.
+
+Proteções incluídas:
+- CSP estrita no HTML e em _headers; sem JavaScript inline, sem estilos inline e sem fontes/JavaScript de terceiros.
+- Cabeçalhos de segurança no formato _headers (use em hospedagem que reconheça esse arquivo; em outra hospedagem, configure os mesmos valores no painel/servidor).
+- Links externos em nova aba com noopener e noreferrer; a criação de conteúdo usa textContent, sem innerHTML.
+- No HTTPS, ative HSTS depois que o domínio estiver publicado e confirmado. Não habilite includeSubDomains se qualquer subdomínio ainda não usar HTTPS.
+
+Prévia do WhatsApp/Open Graph:
+- A imagem assets/og/braga-veiculos-social.jpg está pronta (1200 x 630).
+- O domínio informado para publicação é https://www.veiculosbraga.com.br/. Os metadados já usam og:image e og:url absolutos nesse host. Após publicar, confirme que HTTPS, cabeçalhos, sitemap e imagem social respondem corretamente; o WhatsApp só consegue buscar a prévia em um domínio público.
+
+A segurança dos cabeçalhos e a prévia social só podem ser confirmadas depois de publicar no domínio e testar a resposta HTTP pública.

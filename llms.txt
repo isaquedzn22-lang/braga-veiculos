@@ -1,0 +1,48 @@
+# Braga Veículos Itanhaém
+
+> Loja de veículos seminovos e usados em Itanhaém, São Paulo.
+
+## Páginas
+
+- [Página inicial](https://www.veiculosbraga.com.br/): apresentação, estoque, serviços e contato.
+- [Sitemap](https://www.veiculosbraga.com.br/sitemap.xml): mapa XML da página pública.
+
+## Estoque cadastrado
+
+Catálogo da versão atualizada em 2026-10-19. Preços e disponibilidade podem mudar; confirme as condições diretamente com a loja.
+
+- Ford Fiesta Class 1.0 2004 — R$ 16.900,00
+- Mitsubishi Outlander GT V6 2016 — R$ 81.900,00
+- Mercedes-Benz CLA 200 FF 2015 — R$ 106.900,00
+- RAM Rampage 2024 2.0 — R$ 151.900,00
+- Fastback Limited Edition 270 — R$ 108.000,00
+- Honda Civic LXR 2014 — R$ 71.000,00
+- Toyota Corolla 2004 — R$ 39.000,00
+- Mercedes-Benz C280 Sport 1995 — R$ 75.000,00
+- Fiat Argo Trekking 2020 — R$ 68.000,00
+- Fiat Uno Vivace 2014 1.4 — R$ 26.900,00
+- Hyundai HB20S 1.6 2016 — R$ 56.000,00
+- Jeep Renegade Longitude 2017 1.8 Flex Automático — R$ 64.900,00
+- Fiat Idea 1.8 2014/2015 — R$ 39.900,00
+- Mercedes-Benz GLB 200 Advanced 2021 — R$ 155.000,00
+- VW Fusca 1300 1972 — R$ 59.000,00
+- Toyota Hilux SW4 3.0 D-4D 2009 — R$ 119.000,00
+- Ford EcoSport XLT 2.0 Flex Automática 2007 — R$ 29.000,00
+- Chevrolet S10 Advantage CD 2019 — R$ 112.000,00
+- Renault Kwid Zen 1.0 2019 — R$ 34.900,00
+- Fiat Argo 1.0 2022 prata — R$ 56.000,00
+- Ford EcoSport XLT 2.0 Automática 2012 — R$ 42.000,00
+- Volkswagen Fusca 2009 prata — R$ 47.900,00
+- Kia Picanto 1.0 2010 prata — R$ 27.900,00
+- Chevrolet Montana LS2 1.4 Flex 2018/2019 — R$ 49.900,00
+
+## Serviços
+
+- Compra, venda, troca, consignação e financiamento.
+- Atendimento pelo WhatsApp: [+55 13 97812-4333](https://wa.me/5513978124333).
+- Região de atendimento: Itanhaém, São Paulo, Brasil.
+
+## Dados e atualizações
+
+- Confirme preço, quilometragem, opcionais e disponibilidade na página atual do anúncio ou diretamente com a loja.
+- O estoque é atualizado no site conforme os anúncios publicados.
